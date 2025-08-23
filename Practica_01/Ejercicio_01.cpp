@@ -1,17 +1,17 @@
-// Materia: Programación I, Paralelo 4
+// Materia: ProgramaciÃ³n I, Paralelo 4
 
-// Autor: Sebastián Salvador Birbuet
+// Autor: SebastiÃ¡n Salvador Birbuet
 
 // Carnet: 6963195 L.P.
 
-// Carrera del estudiante: Ingeniería de Sistemas
+// Carrera del estudiante: IngenierÃ­a de Sistemas
 
-// Fecha creación: 23/08/2025
+// Fecha creaciÃ³n: 23/08/2025
 
-// Número de ejercicio: 1
+// NÃºmero de ejercicio: 1
 
 #include <iostream>
-#include <string> //Nos permite incluir texto no numérico en el programa, ojo que se debe usar guiones bajos para los espacios, de lo contrario, el programa se corta.
+#include <string> //Nos permite incluir texto no numÃ©rico en el programa, ojo que se debe usar guiones bajos para los espacios, de lo contrario, el programa se corta.
 using namespace std;
 
 int main()
@@ -21,9 +21,11 @@ int main()
 	cin >> name;
 	cout << "Ahora ingresa tu carrera: ";
 	cin >> degree;
+	
 	cout << "Hola, soy estudiante de programacion." << endl; //"endl" es la abreviatura de "Endline" que nos permite imprimir el codigo con espacios de una linea.
 	cout << name << endl;
 	cout << degree << endl;
 	
 	return 0;
 }
+
