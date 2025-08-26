@@ -8,7 +8,7 @@
 
 // Fecha creación: 23/08/2025
 
-// Número de ejercicio: 5
+// Número de ejercicio: 6
 
 #include <iostream>
 using namespace std;
@@ -43,4 +43,5 @@ int main()
 	
 	return 0;
 }
+
 
