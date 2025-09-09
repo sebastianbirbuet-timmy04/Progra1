@@ -1,3 +1,10 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Sebastián Salvador Birbuet
+// Carnet: 6963195 L.P.
+// Carrera del estudiante: Ingeniería de Sistemas
+// Fecha creación: 08/09/2025
+// Número de ejercicio: 6
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -45,4 +52,5 @@ int main()
 
     return 0;
 }
+
 
