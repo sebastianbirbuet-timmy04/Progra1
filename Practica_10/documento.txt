@@ -1,0 +1,6 @@
+Hola mundo
+Este es un archivo de prueba
+Contiene varias lineas
+Algunas con palabras repetidas palabras
+Y otras lineas cortas
+Fin del documento

@@ -1,0 +1,10 @@
+Juan 8
+Maria 7.4
+Pedro 8.8
+Luisa 6.8
+Carlos 9.6
+Ana 7.2
+Miguel 7.8
+Sofia 9
+Diego 6.2
+Elena 8

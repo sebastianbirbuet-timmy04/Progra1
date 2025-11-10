@@ -1,0 +1,15 @@
+La_Paz 15.0
+El_Alto 12.0
+Cochabamba 20.0
+Santa_Cruz 25.0
+Sucre 18.0
+Potosi 14.0
+Oruro 13.0
+Tarija 22.0
+Trinidad 28.0
+Cobija 30.0
+Villazon 18.0
+Riberalta 27.0
+Yacuiba 29.0
+Montero 26.0
+Camiri 28.0
